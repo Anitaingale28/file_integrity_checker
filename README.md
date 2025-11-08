@@ -28,7 +28,7 @@ The tool rescans the folder, computes new hashes, and compares them with the bas
 # Installation
 Install python-3.13.0-amd64
 Clone this repository:
-git clone https://github.com/Anitaingale28/file-integrity-checker.git
+git clone https://github.com/Anitaingale28/file_integrity_checker.git
 
 Navigate to the project folder:
 cd file-integrity-checker
