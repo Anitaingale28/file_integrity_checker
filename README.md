@@ -2,12 +2,17 @@
 A simple Python tool that uses SHA-256 hashing to detect file changes. It monitors a folder, saves hash values, and alerts when files are added, modified, or deleted.
 
 # Features
-Generates SHA-256 hashes for all files in a directory
-Saves hash values into a JSON file
-Compares old and new hashes to detect changes
-Identifies added, modified, and deleted files
-Lightweight, fast, and easy to understand
-Perfect for cybersecurity beginners and portfolio projects
+1.Generates SHA-256 hashes for all files in a directory
+
+2.Saves hash values into a JSON file
+
+3.Compares old and new hashes to detect changes
+
+4.Identifies added, modified, and deleted files
+
+5.Lightweight, fast, and easy to understand
+
+6.Perfect for cybersecurity beginners and portfolio projects
 
 # How It Works
 1. Save Current Hashes
