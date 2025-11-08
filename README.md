@@ -39,13 +39,18 @@ Enter your choice, then enter the folder path you want to monitor.
 # Project Structure
 file-integrity-checker/
 ├── main.py
-├── hashes.json    (created after saving hashes)
+
+├── hashes.json  (created after saving hashes)
+
 └── README.md
 
 # Example Output
 [OK] report.pdf is unchanged.
+
 [CHANGED] config.txt was modified.
+
 [NEW FILE] notes.txt was added.
+
 [DELETED] oldlog.txt was removed.
 
 # Technologies Used
